@@ -44,7 +44,7 @@ For this analysis, we preprocessed the data to remove any unnecessary columns as
     
     - A third attempt at optimization included experimenting with a different activation function.  Again, rerunning the model showed no significant improvement.
     
-        ![Accuracy_attempt3_optimization.png](Resources/Accuracy_attempt3_optimization.png)
+        ![Accuracy_attempt3_optimization.png](https://github.com/adbauer06/Neural_Network_Charity_Analysis/blob/main/Resources/Accuracy_attempt3_optimization.PNG)
 
 
 ## Summary
