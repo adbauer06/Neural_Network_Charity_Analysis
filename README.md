@@ -40,7 +40,7 @@ For this analysis, we preprocessed the data to remove any unnecessary columns as
 
     - A second attempt at optimization included increasing the number of neurons in the two existing hidden layers as well as adding an additional hidden layer.  This also did not produce any noticeable improvement.
     
-        ![Accuracy_attempt2_optimization.png](Resources/Accuracy_attempt2_optimization.png)
+        ![Accuracy_attempt2_optimization.png](https://github.com/adbauer06/Neural_Network_Charity_Analysis/blob/main/Resources/Accuracy_attempt2_optimization.PNG)
     
     - A third attempt at optimization included experimenting with a different activation function.  Again, rerunning the model showed no significant improvement.
     
