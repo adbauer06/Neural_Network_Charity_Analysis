@@ -36,7 +36,7 @@ For this analysis, we preprocessed the data to remove any unnecessary columns as
 - The following steps were taken to try and optimize the model to achieve the target performance of 75% accuracy:
     - Removing other unnecessary columns, in this case "USE_CASE" did not seem like it would have an impact on funding success.  However, rerunning the model after removing that column did not show any noticeable improvement.
     
-        ![Accuracy_attempt1_optimization.png](Resources/Accuracy_attempt1_optimization.png)
+        ![Accuracy_attempt1_optimization.png](https://github.com/adbauer06/Neural_Network_Charity_Analysis/blob/main/Resources/Accuracy_attempt1_optimization.PNG)
 
     - A second attempt at optimization included increasing the number of neurons in the two existing hidden layers as well as adding an additional hidden layer.  This also did not produce any noticeable improvement.
     
