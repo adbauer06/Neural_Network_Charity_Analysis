@@ -30,7 +30,7 @@ For this analysis, we preprocessed the data to remove any unnecessary columns as
 - I started with 80 neurons in the first hidden layer and 30 neurons in the second hidden layer.  I chose to start with 80 neurons in the first hidden layer as that was about twice the number of input parameters I had.  The 30 in the second layer was just chosen as a starting point.
 - I chose to use the "Relu" activation function for all but the output layer, in which case I chose to use "Sigmoid".  Sigmoid is ideal for use with binary classification.  Relu is also a good activation function for classification and does well with non-linear postive input data.
 - The initial model created did not have an exceptionally high accuracy rate, around 72%.
-![Accuracy_for_initial_model.png](Resources/Accuracy_for_initial_model.png)
+![Accuracy_for_initial_model.png](https://github.com/adbauer06/Neural_Network_Charity_Analysis/blob/main/Resources/Accuracy_for_initial_model.PNG)
 
 
 - The following steps were taken to try and optimize the model to achieve the target performance of 75% accuracy:
